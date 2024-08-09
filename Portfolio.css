@@ -1,0 +1,186 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    padding: 0px 0px 0px 100px;
+    box-shadow: 0px 0px 20px 0px black;
+}
+nav h1 span{
+    color: rgb(135, 166, 166);
+}
+nav h1{
+    color: bisque;
+}
+.navbar{
+   padding: 0px 100px 0px 0px;
+}
+ .collapse .navbar-nav{
+   margin: 0px 0px 0px 900px;
+   text-decoration: none;
+}
+.collapse .navbar-nav a{
+    color: rgb(16, 16, 16);
+}
+.collapse .navbar-nav a:hover{
+    transform: translatey(-10px);
+    text-decoration: underline;
+}
+.card{
+    margin: 50px 0px 0px 0px;
+    border: none;
+}
+.card img{
+    height: 500px;
+    width: 500px;
+    margin: 0px 0px 40px 50px;
+    background-color: black;
+}
+.card .card-body{
+    margin: 50px 0px 50px 100px;
+}
+.card .card-body h4{
+    font-size: 50px;
+}
+.card .card-body h4 span{
+    color: blueviolet;
+}
+.card .card-body h2{
+    font-size: 40px;
+    margin: 20px 0px 0px 0px;
+}
+.card .card-body h2 span{
+    color: blueviolet;
+}
+.card .card-body p{
+    font-size: 20px;
+    margin: 25px 70px 0px 0px;
+}
+.card .card-body button{
+    margin: 40px 0px 0px 80px;
+    background-color: blueviolet;
+    height: 60px;
+    width: 150px;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.card .card-body a{
+    text-decoration: none;
+    color: white;
+}
+.card .card-body a:hover{
+    color: black;
+}
+.card-about{
+    margin: 25px 0px 0px 0px;
+    border: 2px solid black;
+    border: none;
+}
+.card-about .card-body{
+    margin: 0px 0px 0px 0px;
+}
+.card-about .card-body h4{
+    font-size: 50px;
+    text-align: center;
+}
+.card-about .card-body h4 span{
+    color: blueviolet;
+}
+.card-about .border-about .card-body{
+    border: 2px solid whitesmoke;
+    margin: 50px 20px 50px 80px;
+    box-shadow: 0px 0px 10px 10px rgb(194, 181, 181);
+    animation: in-out 5s linear;
+}
+.card-about .card-body p{
+    font-size: 20px;
+    margin: 25px 0px 0px 0px;
+}
+.card-about img{
+    height: 400px;
+    width: 500px;
+    margin: 50px 0px 50px 200px;
+}
+ #Skills img{
+    height: 450px;
+    width: 450px;
+    margin: 25px 0px 40px 50px;
+}
+#Resume img{
+    height: 450px;
+    width: 450px;
+    margin: 20px 0px 40px 50px;
+}
+#Resume .card-text{
+    margin: 0px 0px 0px 60px;
+}
+#Resume .resume-btn {
+    margin: 15px 0px 0px 250px;
+    background-color: blueviolet;
+    height: 50px;
+    width: 150px;
+    align-items: center;
+    font-size: 30px;
+    border-radius: 20px;
+}
+#Resume .resume-btn a{
+    text-decoration: none;
+    color: white;
+}
+#Resume .resume-btn a:hover{
+    color: black;
+}
+#ContactMe a{
+    text-decoration: none;
+}
+#ContactMe .fa-whatsapp:hover{
+    color:rgba(13, 230, 13, 0.87);
+}
+#ContactMe .fa-square-phone:hover{
+    color: rgb(1, 151, 1);
+}
+#ContactMe .fa-envelope:hover{
+    color: aquamarine;
+}
+
+footer{
+    background-color: aliceblue;
+    margin: 0px 0px 0px 0px;
+}
+footer .container-fluid h1 span{
+    color: rgb(135, 166, 166);
+}
+footer .container-fluid h1{
+    color: bisque;
+}
+footer .Matter{
+    text-align: center;
+}
+footer .Matter a{
+    text-decoration: none;
+    color: rgb(79, 62, 62);
+}
+footer .Matter a:hover{
+    color: rgb(11, 218, 237);
+    transform: translatey(-10px);
+    text-decoration: underline;
+}
+footer .social{
+    text-align: center;
+}
+footer .socaial a{
+    size: 200px;
+}
+footer .social a:hover{
+    color: rgb(11, 218, 237);
+    transform: translatey(-10px);
+    text-decoration: underline;
+}
+footer .contact{
+    text-align: center;
+}
+footer .contact a:hover{
+    color: rgb(11, 218, 237);
+    transform: translatey(-10px);
+    text-decoration: underline;
+}
